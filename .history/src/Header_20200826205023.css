@@ -1,0 +1,9 @@
+.header {
+  color: white;
+  display: flex;
+}
+
+.header > img {
+    object-fit: contain;
+    height: ;
+}

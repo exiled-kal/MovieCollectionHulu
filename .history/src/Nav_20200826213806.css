@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  color: white;
+  overflow-x: scroll;
+  padding: 10px;
+  padding-left: 40px;
+}
+
+/* Hide scrollbar for chrome, safari and opera */
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+.nav {
+  /* IE and Edge */
+  -ms-overflow-style: none;
+  /* Firefox */
+  scrollbar-width: none;
+}
+
+.nav > h2 {
+    cursor:po
+}
