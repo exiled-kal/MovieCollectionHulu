@@ -1,0 +1,11 @@
+.videoCard {
+    color: white;
+    width: 500px;
+    height: ;
+}
+
+.videoCard > img {
+  height: 300px;
+  object-fit: contain;
+  width: 500px;
+}
